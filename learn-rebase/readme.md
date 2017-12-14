@@ -5,3 +5,4 @@
 - JavaScriptshi 是世界上最赚钱的语言 
 - vue react mvvm 框架 web app独领风骚
 - node.js koa express Java php没啥意思
+- js的未来，pwa渐进式网页应用开发，react native 混合式应用开发 weex三端统一
